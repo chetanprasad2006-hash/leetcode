@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chetanprasad2006-hash/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/chetanprasad2006-hash/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chetanprasad2006-hash/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2349-design-a-number-container-system](https://github.com/chetanprasad2006-hash/leetcode/tree/master/2349-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2349-design-a-number-container-system](https://github.com/chetanprasad2006-hash/leetcode/tree/master/2349-design-a-number-container-system) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chetanprasad2006-hash/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
