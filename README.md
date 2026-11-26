@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/chetanprasad2006-hash/leetcode/tree/master/1603-design-parking-system) |
+| [2349-design-a-number-container-system](https://github.com/chetanprasad2006-hash/leetcode/tree/master/2349-design-a-number-container-system) |
 ## Counting
 |  |
 | ------- |
@@ -66,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chetanprasad2006-hash/leetcode/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/chetanprasad2006-hash/leetcode/tree/master/2349-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/chetanprasad2006-hash/leetcode/tree/master/2349-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/chetanprasad2006-hash/leetcode/tree/master/2349-design-a-number-container-system) |
 <!---LeetCode Topics End-->
