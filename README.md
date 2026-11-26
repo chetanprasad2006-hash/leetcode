@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/chetanprasad2006-hash/leetcode/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetanprasad2006-hash/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/chetanprasad2006-hash/leetcode/tree/master/0136-single-number) |
 ## Bit Manipulation
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/chetanprasad2006-hash/leetcode/tree/master/1603-design-parking-system) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/chetanprasad2006-hash/leetcode/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/chetanprasad2006-hash/leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
