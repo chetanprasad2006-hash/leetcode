@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/chetanprasad2006-hash/leetcode/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/chetanprasad2006-hash/leetcode/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/chetanprasad2006-hash/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
